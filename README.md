@@ -78,7 +78,7 @@ java-rest-tests/
 ## 👨‍💻 Автор
 
 - Илья Матеенков
-- QA Automation Engineer (Java/Python)
+- QA Automation Engineer (Java)
 - 📎 GitHub: imateenkovv
 - [Мое резюме](https://hh.ru/resume/4a1f3e52ff09c71d1e0039ed1f6f4b506b5837?hhtmFrom=resume_list)
 
